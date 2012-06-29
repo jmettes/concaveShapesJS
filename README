@@ -1,0 +1,7 @@
+concaveShapesJS
+
+JavaScript port of concaveShapes (https://github.com/yadurajiv/concaveShapes). Create concave shapes using triangulated Box2D polygon shapes.
+
+Live demo: http://jmettes.com/draw-concave-box2d-javascript
+
+More info on the original Flash version: http://chronosign.com/rant/yadurajiv/2011/01/694
